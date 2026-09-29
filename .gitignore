@@ -1,0 +1,17 @@
+# Dependency folders
+node_modules/
+vendor/
+
+# Environment and sensitive variables
+.venv
+.env
+*.local
+Mustang_Car details.txt
+.vscode
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Log files
+*.log
